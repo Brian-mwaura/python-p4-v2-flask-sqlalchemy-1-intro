@@ -5,7 +5,7 @@
 - Define a Python model class.
 - Use **Flask-SQLAlchemy** to configure a Flask app to connect to a database.
 - Use **Flask-SQLALchemy** to define a database model.
-- Use **Flask-Migrate** to initialize a database schema.
+- Use **Flask-Migrate** to initialize a database schema
 
 ---
 
